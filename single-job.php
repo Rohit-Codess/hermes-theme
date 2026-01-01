@@ -54,7 +54,7 @@
             <!-- Sidebar Info -->
             <div class="w-full lg:w-1/3">
                 <div class="bg-white p-6 rounded-lg shadow-sm border border-gray-200 sticky top-24">
-                    <h3 class="font-bold text-gray-900 mb-6 border-b pb-2">Key Details</h3>
+                    <h3 class="font-bold text-gray-900 mb-6 border-b pb-2">Key Detail</h3>
                     
                     <div class="space-y-4">
                         <div>
